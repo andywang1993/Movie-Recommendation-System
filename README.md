@@ -4,7 +4,7 @@
 Nowadays, auto recommendations are everywhere online in our daily life. Movies, TV programs, music, online shopping and so on.
 We chose the movie recommendation system as our data mining project.
 
-## Project Definition
+## Objection
 By using unsupervised learning methods, we want to analyze each user’s watching and rating history, 
 find patterns and use proper models to recommend potentially liked movies for him/her. Specifically, 
 for a new user, who have no rating history in our data set, we take our own-built searching and sorting based on user’s input preferences method to find potential recommendations;
